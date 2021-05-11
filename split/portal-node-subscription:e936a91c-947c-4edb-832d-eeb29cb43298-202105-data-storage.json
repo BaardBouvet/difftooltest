@@ -213,6 +213,8 @@
   "global-product:name": "Storage Data = 10 \u20ac Per gigabyte",
   "global-product:price": "~f10.0",
   "global-product:rate": null,
+  "global-subscription-period:fixed_currency": "EUR",
+  "global-subscription-period:fixed_price": 15000,
   "global-subscription-period:name": "Sesam Demo Setup",
   "global-subscription-period:paymentmethod-ni": "~:portal-node-paymentmethod:2019-mars-4980-9491-647cf90f25f4",
   "global-subscription-period:period-ni": "~:global-period:202105",

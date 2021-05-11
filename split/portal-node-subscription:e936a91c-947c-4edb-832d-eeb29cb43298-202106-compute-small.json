@@ -45,6 +45,8 @@
   "global-product:name": "Small - 1 Engine ( < 40 GB Data ) Compute = 100 \u20ac Per environment",
   "global-product:price": "~f100.0",
   "global-product:rate": null,
+  "global-subscription-period:fixed_currency": "EUR",
+  "global-subscription-period:fixed_price": 15000,
   "global-subscription-period:name": "Sesam Demo Setup",
   "global-subscription-period:paymentmethod-ni": "~:portal-node-paymentmethod:2019-mars-4980-9491-647cf90f25f4",
   "global-subscription-period:period-ni": "~:global-period:202106",
